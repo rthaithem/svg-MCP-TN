@@ -1,0 +1,6 @@
+{
+  "name": "svg-MCP-TN - SVG Emoji Library & MCP Server",
+  "description": "Modern SVG Emoji Library for Web Developers with integrated Model Context Protocol (MCP) server for Cursor, Claude, and Windsurf.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
